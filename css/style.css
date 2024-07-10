@@ -942,6 +942,11 @@ a:focus {
     height: 280px;
     overflow: hidden;
     object-fit: contain;
+    border-radius: 8px;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    -ms-border-radius: 8px;
+    -o-border-radius: 8px;
 }
 
 .portfolio .portfolio-img .img{
